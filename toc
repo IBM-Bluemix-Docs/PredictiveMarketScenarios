@@ -7,3 +7,7 @@ Predictive Market Scenarios
     {: .navgroup id="learn"}
     index.md
     {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    [API reference](https://console.bluemix.net/apidocs/fss-predictive-scenario-analytics-service)
+    {: .navgroup-end}
