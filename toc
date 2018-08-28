@@ -9,5 +9,5 @@ Predictive Market Scenarios
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-    [API reference](https://console.bluemix.net/apidocs/fss-predictive-scenario-analytics-service)
+    [API reference](https://console.bluemix.net/apidocs/predictive-market-scenarios)
     {: .navgroup-end}
