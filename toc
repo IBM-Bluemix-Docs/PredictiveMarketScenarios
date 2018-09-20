@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="PredictiveMarketScenarios" audience="service" href="/docs/services/PredictiveMarketScenarios/index.html"}
+{: .toc subcollection="PredictiveMarketScenarios" audience="service" arm="3917553" href="/docs/services/PredictiveMarketScenarios/index.html"}
 Predictive Market Scenarios
 
     {: .navgroup id="learn"}
